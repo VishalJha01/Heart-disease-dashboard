@@ -1,4 +1,10 @@
 # 🫀 Heart Disease Clinical Dashboard
+## 🖼️ Dashboard Preview
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VishalJha01/Heart-disease-dashboard/main/Heart%20Disease%20dashboard.png" width="800"/>
+</p>
+
 
 ## 📊 Overview
 
