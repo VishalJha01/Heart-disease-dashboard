@@ -11,7 +11,6 @@ The dataset is sourced from Kaggle and was preprocessed using Python for missing
 ## 📁 Files Included
 
 - `dashboard.pbix` – Complete Power BI dashboard file  
-- `preprocessing.py` – Python script used to clean and prepare the dataset  
 - `screenshots/` – Folder containing preview images of the dashboard  
 - `README.md` – Project documentation (this file)
 
@@ -46,11 +45,6 @@ The dataset is sourced from Kaggle and was preprocessed using Python for missing
 - 🧼 Slicer-based filtering with a reset button to return to default view  
 - 🎨 Custom **dark theme** and icon-based sidebar navigation  
 
----
-
-## 📷 Sample Dashboard Preview
-
-> *(Add a real screenshot in `/screenshots/` and link it above)*
 
 ---
 
